@@ -7,3 +7,6 @@ Learning to update and commit.
 # Subheader
 
 Vscode Integrated Git repo
+
+# Adding Feature
+added isPrime(int num)  in main.cpp
