@@ -4,6 +4,7 @@ Learning git.
 Learning creating file.
 Learning to update and commit.
 Learning to push
+Learning to merge
 
 # Subheader
 
